@@ -6,4 +6,4 @@ Its just for demo (MySQL + echo framework)
 
 ## TODO
 
-- Add dependency management (dep)
+- Add dependency management (module) -> complete
